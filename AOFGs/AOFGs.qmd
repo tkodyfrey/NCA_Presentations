@@ -1,0 +1,156 @@
+---
+title: "Using Microsoft Teams to Facilitate Asynchronous Online Focus Groups"
+author: "T. Kody Frey & Beth Strickland Bloch"
+institute: "University of Kentucky" 
+format: 
+  revealjs:
+    theme: [night]
+    slide-number: true
+    preview-links: auto
+    logo: images/UK.png
+    footer: <tkfr222@uky.edu> | [@TKFrey](https://twitter.com/TKFrey) | [tkodyfrey.github.io](https://tkodyfrey.github.io)
+    scrollable: true
+    transition: fade
+    navigation-mode: vertical
+    fig-cap-location: bottom
+    code-fold: true
+    code-summary: "Show the code"
+editor: visual
+self-contained: true
+---
+
+# Follow Along!
+
+![](images/Front.png){fig-align="center" width="200"}
+
+# Project Scope
+
+## Introduction
+
+-   Project focuses on communication gaps in medical translation.
+-   Translational research from development to clinical application.
+-   Understanding stakeholders for improved translational efficacy.
+
+------------------------------------------------------------------------
+
+## Project Context and Methodological Considerations
+
+-   Bench-to-bedside approach in biomedical projects.
+-   Challenges: projects' slow progression, critical communicative disconnect.
+-   Research Questions: Identify communication breakdowns, values affecting projects, and propose instructional interventions.
+
+## AOFGs
+
+-   Recruited through university listservs and contacts.
+-   Included 37 faculty, students, and staff.
+-   Range of identification from clinical to preclinical.
+-   3 FGs lasted 4 weeks each.
+-   Participants expected to contribute 60 minutes per week.
+
+# Results & Methodological Observations
+
+------------------------------------------------------------------------
+
+## Non-Linear Conversational Sequence
+
+-   Teams' non-linear structure: benefits and challenges.
+-   Lower drop-out rate, flexibility, and participant reflection.
+
+------------------------------------------------------------------------
+
+![](images/Figure%201_Blind.png){fig-align="center"}
+
+------------------------------------------------------------------------
+
+![](images/Figure%202_Blind.png){fig-align="center"}
+
+## Reflexive Discussion Moderation
+
+-   Teams' precision, flexibility, and coordination for moderators.
+-   Synthesizing responses and careful reflection.
+
+## Nonverbal Cues and Immediacy
+
+-   Compensating for lack of nonverbal cues in Teams.
+-   Use of emojis, tagging, chronemics, and profiles.
+
+------------------------------------------------------------------------
+
+![](images/Figure%203_Blind.png){fig-align="center"}
+
+------------------------------------------------------------------------
+
+![](images/Figure%204_Blind.png){fig-align="center"}
+
+## Supporting Information
+
+-   Richness of data with additional supporting material.
+-   Enhanced responses through links and external information.
+
+------------------------------------------------------------------------
+
+![](images/Figure%205_Blind.png){fig-align="center"}
+
+------------------------------------------------------------------------
+
+![](images/Figure%206_Blind.png){fig-align="center"}
+
+## Technical Competence {.smaller}
+
+-   Challenges and benefits of technical competence.
+-   Varying participant familiarity and usability.
+
+"The reason that my participation was so light was due to my lack of familiarity with Microsoft Teams. In addition, I cannot see how virtual meetings are effective. It would have been ideal if just one time the group could have met in person. I have much experience related to translational studies but did not find Teams to be an appropriate application in which to communicate my experiences and conclusions."
+
+# Discussion & Reflection
+
+------------------------------------------------------------------------
+
+## Overview {.smaller}
+
+"Questions were designed to assess the knowledge transfer gaps that occur between these researchers as projects are moving across translational stages, including where **communication breaks down**, **how opposing beliefs inhibit projects from developing quickly**, and **how educational interventions might prepare both groups to navigate this process more efficiently in the future**."
+
+Reflection focuses on Teams' unique influence in 3 areas:
+
+-   Interaction
+-   Interpretation
+-   Data Management
+
+------------------------------------------------------------------------
+
+## Interaction
+
+-   Discontinuities in conversational flow cause challenges in recreating AOFG interactions.
+-   What counts as insightful reading (i.e., functional noise).
+-   Need for strategic planning to leverage platform affordances.
+-   Encouragement for researchers to know platforms intimately.
+
+------------------------------------------------------------------------
+
+## Ongoing Interpretation
+
+-   Non-linearity as an epistemological benefit.
+-   Reflexivity and critical thinking during data collection.
+-   Opportunities for ongoing reflection and qualitative checks.
+-   Leveraging technological features for richer data.
+
+------------------------------------------------------------------------
+
+## Data Management
+
+-   Teams' advantage in text-based data.
+-   Complications in data extrapolation for qualitative analysis.
+-   Importance of timely data export and reconstruction.
+-   Must take care to preserve conversational nuances (e.g., group composition).
+
+------------------------------------------------------------------------
+
+## Conclusion
+
+-   Mental roadmap for ensuring effectiveness in this space centers on capitalizing on the resources and affordances offered by the service.
+-   Can function as an appropriate and valid tool for generating focus group-equivalent insights.
+-   AOFGs add a viable option to the qualitative methodological toolkit.
+
+------------------------------------------------------------------------
+
+![](images/AOFG.png){fig-align="center" width="500"}

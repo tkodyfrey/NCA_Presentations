@@ -1,0 +1,221 @@
+---
+title: "Applying the pressure"
+subtitle: "Exploring how instructor strictness impacts students’ individual classroom experiences"
+author: "T. Kody Frey & Nicholas T. Tatum"
+institute: "University of Kentucky / University of Nevada - Las Vegas" 
+format: 
+  revealjs:
+    theme: [default]
+    slide-number: true
+    preview-links: auto
+    logo: images/UK.png
+    footer: <tkfr222@uky.edu> | [@TKFrey](https://twitter.com/TKFrey) | [tkodyfrey.github.io](https://tkodyfrey.github.io)
+    scrollable: true
+    transition: fade
+    navigation-mode: vertical
+    fig-cap-location: bottom
+    code-fold: true
+    code-summary: "Show the code"
+editor: visual
+self-contained: true
+---
+
+# Follow Along!
+
+![](images/Front.png){fig-align="center" width="200"}
+
+## What is strictness?
+
+The perceived *inflexibility* of an instructor based on their unwavering adherence to instructional policies and procedures (Tatum & Frey, 2021)
+
+Strict instructors:
+
+-   Closely monitor students' behaviors
+-   Rigidly enforce implicit and explicit policies and norms
+-   Hold high standards for behavior and content knowledge
+
+## Types of strict behavior
+
+Student narratives suggest three different patterns of strictness:
+
+::: panel-tabset
+### Evaluative
+
+The enforcement of rules, policies, or practices dealing with the direct assessment of students' content knowledge or ability to complete instructional objectives.
+
+### Regulatory
+
+The way instructors use policies and procedures to manage the classroom and facilitate ideal conditions for student learning and growth.
+
+### Interactive
+
+The way instructors interpersonally communicate about their policies and procedures to students both within and outside the classroom.
+:::
+
+## How does strictness affect students? {.smaller}
+
+As you might expect, it is mostly *negative*.
+
+However, our communication-based perspective is value neutral.
+
+We know there are times when strict instruction can motivate students or help them learn:
+
+-   Strictness may sometimes be necessary for ensuring that students behave amicably in large classrooms or making sure that rules are applied equally to all students (Kendall & Schussler, 2013).
+
+## Study Purpose
+
+The goal of this research is to make sense of these competing ideas by qualitatively analyzing how students' actual experiences with strictness affected them within the classroom.
+
+**RQ: How does perceived instructor strictness impact students' experiences in a classroom setting?**
+
+## Methods {.smaller}
+
+N = 457
+
+-   180 men; 276 women; 1 did not report
+-   187 first-year students (40.92%), 59 sophomores (12/91%), 125 juniors (27.35%), 85 seniors (18.60%), and 1 fifth-year senior or beyond (0.22%)
+
+Data for this study are drawn from responses to two questions:
+
+-   When instructors are strict, how does this affect your ability to learn?
+-   How does an instructor being strict affect your classroom experience?
+
+## Analysis
+
+Braun and Clarke's (2006) qualitative thematic analysis
+
+6 steps:
+
+-   Familiarizing oneself with the data\
+-   Generating initial codes
+-   Looking for themes
+-   Evaluating themes
+-   Defining and naming themes
+-   Producing the report
+
+## Results
+
+3 themes from a cluster of 8 sub themes:
+
+-   Mindset and Motivation
+
+-   Affective Responses
+
+-   Relational Distance
+
+## Mindset and Motivation {.smaller}
+
+Dealt primarily with the ways students changed their attitudes to be more or less persistent and intense in their educational pursuits
+
+::: panel-tabset
+### Shifts in grade orientation
+
+Students just want their work done:
+
+*"For me, when instructors are strict, I tend to focus more on getting a good grade in the class instead of actually learning and retaining the material."*
+
+-   Ruby, an 18-year-old, African American, female sophomore
+
+### Improved study habits
+
+Students were motivated to adopt new habits or study skills:
+
+*"It helps push me to get my work done quicker and have better time management."*
+
+-   Brittany, an 18-year-old, White, female, first-year student
+
+### Enhanced focus
+
+Forced students into a mindset of hard work or reduced the prevalence of distractions
+
+*"I find that it can be distracting when many students are being disruptive and the instructor doesn't say anything. When the instructor is strict on these policies it can make the classroom experience much better."*
+
+-   Max, a 20-year-old, White, male junior
+:::
+
+## Affective Responses {.smaller}
+
+Reflected the ways students emotionally reacted to their instructor's inflexible behavior
+
+::: panel-tabset
+### Increased pressure
+
+Students felt increased pressure to complete their work, impress the instructor, or avoid making mistakes
+
+*"I feel the pressure of being called on in class to answer a question. So to not look stupid in class, I do all the work prior to the class, which takes up a lot of time."*
+
+-   Carey, a 29-year-old, Bi-racial, male junior
+
+### Increased stress/anxiety
+
+Describes students' internalized tension as a result of their instructor's strict behavior
+
+*"It usually stresses me out to the point I am more worried about their restrictions than the actual course work."*
+
+-   Andrea, a 21-year-old, White, female junior
+
+### Intimidation
+
+Students felt scared of the instructor's actions, clearly disliked the experience of being in class, or not did not look forward to attending, interacting, or participating
+
+*"The collective classroom experience is ruined, there is no positive energy in the room, everyone is just slaving away trying their absolute hardest to meet the unnecessarily harsh demands of the teacher."*
+
+-   Hassan, an 18-year-old, Arab, male, first-year student
+:::
+
+## Relational Distance {.smaller}
+
+Dealt with how strictness impacted students' interpersonal connections with their instructor and their peers
+
+::: panel-tabset
+### Decreased connectedness
+
+Students experienced less rapport and connection with either their instructor or their classmates
+
+*"It decreases my ability to learn because I do not feel like we are on the same team. A professor and student relationship should go both ways, not just one person barking orders at the other."*
+
+-   Ryan, an 18-year-old, White, male sophomore
+
+### Deterrence from help-seeking
+
+Strictness made it difficult to seek help when it was needed
+
+*"I would say an instructor being strict negatively affects my classroom experience because I feel like I cannot talk to that instructor or get help from them if I need it."*
+
+-   Mac, an 18-year-old, White, male, first-year student
+:::
+
+## Discussion
+
+-   Strictness produced a variety of outcomes, some beneficial and some detrimental.
+
+-   Outcomes also varied across students (e.g., pressure as an inhibitor; motivator)
+
+-   Still, many view strictness as undesirable, and the conditions whereby it becomes positive are not clear.
+
+## Discussion
+
+-   The act of being strict may not influence learning directly.
+
+-   Strictness mostly impacted learning by way of other processes like interest, engagement, motivation, or emotion:
+
+*"I don't want to fall behind in classes with strict instructors, so I find that I am more motivated for those classes"*
+
+-   Jenny, 21-year-old, Asian, female junior
+
+## Discussion
+
+Why does an instructor being strict impact learning?
+
+-   Caring?
+-   Resilience?
+-   Grit?
+
+We hesitate to encourage instructors to adopt purely flexible and accommodative stances, as some students like a rigid experience.
+
+## Limitations / Future Directions
+
+-   Cultural expectations of strictness
+-   Limited comparison across themes
+-   Transferability to other institutions
+-   Exposure to strict instructors in college
